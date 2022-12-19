@@ -74,18 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-.aside {
-    position: absolute; 
-    top: 921px ;
-    left: 1900px ;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 23%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
